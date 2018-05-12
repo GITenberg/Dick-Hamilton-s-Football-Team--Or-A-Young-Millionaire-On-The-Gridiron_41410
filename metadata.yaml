@@ -1,0 +1,30 @@
+_repo: Dick-Hamilton-s-Football-Team--Or-A-Young-Millionaire-On-The-Gridiron_41410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2012-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Football -- Juvenile fiction'
+- !lcc 'PZ'
+title: Dick Hamilton's Football Team; Or, A Young Millionaire On The Gridiron
+url: http://www.gutenberg.org/ebooks/41410
